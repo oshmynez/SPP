@@ -1,0 +1,6 @@
+W:\5 сем\СПП\GenerateSpecialValue\bin\Debug\GenerateSpecialValue.dll
+W:\5 сем\СПП\GenerateSpecialValue\bin\Debug\GenerateSpecialValue.pdb
+W:\5 сем\СПП\GenerateSpecialValue\obj\Debug\GenerateSpecialValue.csprojAssemblyReference.cache
+W:\5 сем\СПП\GenerateSpecialValue\obj\Debug\GenerateSpecialValue.csproj.CoreCompileInputs.cache
+W:\5 сем\СПП\GenerateSpecialValue\obj\Debug\GenerateSpecialValue.dll
+W:\5 сем\СПП\GenerateSpecialValue\obj\Debug\GenerateSpecialValue.pdb

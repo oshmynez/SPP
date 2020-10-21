@@ -1,0 +1,16 @@
+W:\5 сем\СПП\FakerLaba\obj\Debug\FakerLaba.csprojAssemblyReference.cache
+W:\5 сем\СПП\FakerLaba\obj\Debug\FakerLaba.csproj.CoreCompileInputs.cache
+W:\5 сем\СПП\FakerLaba\bin\Debug\FakerLaba.exe.config
+W:\5 сем\СПП\FakerLaba\bin\Debug\FakerLaba.exe
+W:\5 сем\СПП\FakerLaba\bin\Debug\FakerLaba.pdb
+W:\5 сем\СПП\FakerLaba\bin\Debug\Bogus.dll
+W:\5 сем\СПП\FakerLaba\bin\Debug\Bogus.xml
+W:\5 сем\СПП\FakerLaba\obj\Debug\FakerLaba.csproj.CopyComplete
+W:\5 сем\СПП\FakerLaba\obj\Debug\FakerLaba.exe
+W:\5 сем\СПП\FakerLaba\obj\Debug\FakerLaba.pdb
+W:\5 сем\СПП\FakerLaba\bin\Debug\TestClass.dll
+W:\5 сем\СПП\FakerLaba\bin\Debug\TestClass.pdb
+W:\5 сем\СПП\FakerLaba\bin\Debug\GenerateSpecialValue.dll
+W:\5 сем\СПП\FakerLaba\bin\Debug\GeneratorValue.dll
+W:\5 сем\СПП\FakerLaba\bin\Debug\GenerateSpecialValue.pdb
+W:\5 сем\СПП\FakerLaba\bin\Debug\GeneratorValue.pdb

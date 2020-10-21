@@ -1,0 +1,6 @@
+W:\5 сем\СПП\GeneratorValue\obj\Debug\GeneratorValue.csprojAssemblyReference.cache
+W:\5 сем\СПП\GeneratorValue\obj\Debug\GeneratorValue.csproj.CoreCompileInputs.cache
+W:\5 сем\СПП\GeneratorValue\bin\Debug\GeneratorValue.dll
+W:\5 сем\СПП\GeneratorValue\bin\Debug\GeneratorValue.pdb
+W:\5 сем\СПП\GeneratorValue\obj\Debug\GeneratorValue.dll
+W:\5 сем\СПП\GeneratorValue\obj\Debug\GeneratorValue.pdb
